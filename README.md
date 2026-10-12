@@ -46,7 +46,7 @@ Polices : Archivo (titres) et Source Sans 3 (textes), chargées depuis Google Fo
 
 ## À compléter
 
-- Coordonnées : NIF.
+- NIF : retiré du site en attendant le numéro (à ajouter dans le pied de page des deux pages).
 - Liens des réseaux sociaux (`data-reseau` dans les deux pages).
 - Réalisations (photos et textes réels).
 - Remplacer à terme les photos d'illustration par de vraies photos LUCIA GROUP.
