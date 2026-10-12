@@ -38,5 +38,5 @@ Ce dépôt est le site de LUCIA GROUP, géré par Claude à la demande de l'équ
 
 - Dénomination : LUCIA GROUPE S.A.S. (nom commercial affiché : LUCIA GROUP). Ne pas afficher le capital social sur le site (demande du client).
 - Téléphone et WhatsApp : +243 802 074 111. E-mail : info@luciagroup-rdc.com (contact et `data-email` du formulaire).
-- RCCM CD/KNM/RCCM/26-B-02851 · Id. Nat. 01-S9502-N15977Q · NIF : à compléter.
+- RCCM CD/KNM/RCCM/26-B-02851 · Id. Nat. 01-S9502-N15977Q. NIF retiré à la demande du client (2026-10-12) ; à ajouter quand il le transmet.
 - Siège : 2, avenue de la Paix, Q/Industriel, C/Limete, Kinshasa, RDC.
