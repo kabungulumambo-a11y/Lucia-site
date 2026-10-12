@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luciagroup-rdc.com/sitemap.xml

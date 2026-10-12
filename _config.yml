@@ -1,0 +1,4 @@
+# GitHub Pages : le site est en HTML statique, ces fichiers internes ne sont pas publiés
+exclude:
+  - CLAUDE.md
+  - README.md
